@@ -1,5 +1,5 @@
 {
-  "ProjectName": "try",
+  "ProjectName": "trys",
   "ProjectGuid": "2b7a0271-207d-4e3f-8065-66f5a39eed18",
   "projectVersion": 1,
   "AppIdentifier": "com.telerik.tryrehman",
@@ -65,7 +65,7 @@
   "DeviceOrientations": [
     "Portrait"
   ],
-  "AndroidHardwareAcceleration": "false",
+  "AndroidHardwareAcceleration": "true",
   "iOSStatusBarStyle": "Default",
   "WP8SupportedResolutions": [
     "ID_RESOLUTION_WVGA",
